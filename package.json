@@ -1,7 +1,7 @@
 {
     "name": "seoul",
-    "displayName": "seoul",
-    "description": "Port of https://github.com/junegunn/seoul256.vim",
+    "displayName": "Seoul",
+    "description": "Port of seoul256 colorscheme from vim. Low-contrast theme. https://github.com/junegunn/seoul256.vim",
     "version": "0.0.1",
     "publisher": "ryanolsonx",
     "engines": {
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Seoul",
+                "label": "Seoul Light",
                 "uiTheme": "vs",
-                "path": "./themes/Seoul-color-theme.json"
+                "path": "./themes/light.json"
             }
         ]
     }
