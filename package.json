@@ -1,0 +1,22 @@
+{
+    "name": "seoul",
+    "displayName": "seoul",
+    "description": "Port of https://github.com/junegunn/seoul256.vim",
+    "version": "0.0.1",
+    "publisher": "ryanolsonx",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seoul",
+                "uiTheme": "vs",
+                "path": "./themes/Seoul-color-theme.json"
+            }
+        ]
+    }
+}
