@@ -222,6 +222,150 @@
 			"settings": {
 				"foreground": "#9A7372"
 			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "storage.type.class",
+			"settings": {
+				"foreground": "#53A0C0"
+			}
+		},
+		{
+			"scope": "storage.modifier",
+			"settings": {
+				"foreground": "#53A0C0"
+			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#A47A33"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#A47A33"
+			}
+		},
+		{
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#A47A33"
+			}
+		},
+		{
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#9A7599"
+			}
+		},
+		{
+			"scope": "keyword.operator.type.annotation",
+			"settings": {
+				"foreground": "#616161"
+			}
+		},
+		{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#616161"
+			}
+		},
+		{
+			"scope": "keyword.operator.logical",
+			"settings": {
+				"foreground": "#E17899"
+			}
+		},
+		{
+			"scope": "keyword.operator.comparison",
+			"settings": {
+				"foreground": "#BE7572"
+			}
+		},
+		{
+			"scope": "keyword.control.loop",
+			"settings": {
+				"foreground": "#0099BD"
+			}
+		},
+		{
+			"scope": "variable.other.less",
+			"settings": {
+				"foreground": "#9A7599"
+			}
+		},
+		{
+			"scope": "entity.name.tag.css",
+			"settings": {
+				"foreground": "#719899"
+			}
+		},
+		{
+			"scope": "punctuation.definition.entity.css",
+			"settings": {
+				"foreground": "#E17899"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#9A7200"
+			}
+		},
+		{
+			"scope": "support.constant.property-value.css",
+			"settings": {
+				"foreground": "#007173"
+			}
+		},
+		{
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#616161"
+			}
+		},
+		{
+			"scope": "keyword.other.unit.px.css",
+			"settings": {
+				"foreground": "#616161"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#5f875f"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#875f5f"
+			}
+		},
+		{
+			"scope": "keyword.other.unit.percentage.css",
+			"settings": {
+				"foreground": "#875f5f"
+			}
+		},
+		{
+			"scope": "keyword.other.important.css",
+			"settings": {
+				"foreground": "#E19972"
+			}
+		},
+		{
+			"scope": "keyword.control.default",
+			"settings": {
+				"foreground": "#9A7599"
+			}
 		}
 	]
 }
