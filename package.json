@@ -16,6 +16,11 @@
                 "label": "Seoul Light",
                 "uiTheme": "vs",
                 "path": "./themes/light.json"
+            },
+            {
+                "label": "Seoul Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
             }
         ]
     }
