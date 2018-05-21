@@ -436,7 +436,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.tag.tsx,entity.name.tag.jsx, entity.name.tag.html, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html",
+			"scope": "entity.name.tag.block.any.html, entity.name.tag.tsx,entity.name.tag.jsx, entity.name.tag.html, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html",
 			"settings": {
 				"foreground": "#719899",
 				"fontStyle": "bold"

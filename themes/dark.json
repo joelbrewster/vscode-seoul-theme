@@ -665,7 +665,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.tag.tsx, entity.name.tag.jsx, support.class.component.tsx, support.class.component.jsx, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html, entity.name.tag.html",
+			"scope": "entity.name.tag.block.any.html, entity.name.tag.tsx, entity.name.tag.jsx, support.class.component.tsx, support.class.component.jsx, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html, entity.name.tag.html",
 			"settings": {
 				"foreground": "#98bc99",
 				"fontStyle": "bold"
