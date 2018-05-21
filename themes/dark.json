@@ -540,6 +540,117 @@
 			"settings": {
 				"foreground": "#738EBD"
 			}
+		},
+		{
+			"scope": "keyword.control.logical.operator.less",
+			"settings": {
+				"foreground": "#BDBB72"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.pseudo-class.css",
+			"settings": {
+				"foreground": "#6FBCBD"
+			}
+		},
+		{
+			"scope": "keyword.other.important.css",
+			"settings": {
+				"foreground": "#FFBD98"
+			}
+		},
+		{
+			"scope": "keyword.other.unit.percentage.css",
+			"settings": {
+				"foreground": "#FFDE99"
+			}
+		},
+		{
+			"scope": "support.constant.font-name.css",
+			"settings": {
+				"foreground": "#6FBCBD"
+			}
+		},
+		{
+			"scope": "constant.other.rgb-value.css",
+			"settings": {
+				"foreground": "#6FBCBD"
+			}
+		},
+		{
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#DFBC72",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#719872"
+			}
+		},
+		{
+			"scope": "support.constant.property-value.css",
+			"settings": {
+				"foreground": "#6FBCBD"
+			}
+		},
+		{
+			"scope": "keyword.other.unit.px.css",
+			"settings": {
+				"foreground": "#FFDE99"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#FFDE99"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#DFBC72",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "punctuation.definition.entity.css",
+			"settings": {
+				"foreground": "#E09B99"
+			}
+		},
+		{
+			"scope": "entity.name.tag.css",
+			"settings": {
+				"foreground": "#98bc99",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "variable.other.less",
+			"settings": {
+				"foreground": "#FFBFBD"
+			}
+		},
+		{
+			"scope": "keyword.control.trycatch",
+			"settings": {
+				"foreground": "#FFBD80"
+			}
+		},
+		{
+			"scope": "storage.modifier.async",
+			"settings": {
+				"foreground": "#98BC99"
+			}
+		},
+		{
+			"scope": "entity.name.section.markdown, punctuation.definition.heading.markdown",
+			"settings": {
+				"foreground": "#80bcbd"
+			}
 		}
 	]
 }
