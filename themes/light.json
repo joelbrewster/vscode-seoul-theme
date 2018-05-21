@@ -450,7 +450,7 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name.tsx,entity.other.attribute-name.jsx, entity.other.attribute-name.html",
+			"scope": "entity.other.attribute-name.id.html, entity.other.attribute-name.tsx,entity.other.attribute-name.jsx, entity.other.attribute-name.html",
 			"settings": {
 				"foreground": "#9a7200"
 			}

@@ -651,6 +651,31 @@
 			"settings": {
 				"foreground": "#80bcbd"
 			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#719872"
+			}
+		},
+		{
+			"scope": "meta.tag.sgml.doctype.html, meta.tag.sgml.html",
+			"settings": {
+				"foreground": "#719872"
+			}
+		},
+		{
+			"scope": "entity.name.tag.tsx, entity.name.tag.jsx, support.class.component.tsx, support.class.component.jsx, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html, entity.name.tag.html",
+			"settings": {
+				"foreground": "#98bc99",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.html, entity.other.attribute-name.id.html, entity.other.attribute-name.tsx, entity.other.attribute-name.jsx",
+			"settings": {
+				"foreground": "#DFBC72"
+			}
 		}
 	]
 }
