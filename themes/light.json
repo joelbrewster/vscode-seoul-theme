@@ -428,6 +428,32 @@
 			"settings": {
 				"foreground": "#007173"
 			}
+		},
+		{
+			"scope": "meta.tag.sgml.doctype.html, meta.tag.sgml.html",
+			"settings": {
+				"foreground": "#719872"
+			}
+		},
+		{
+			"scope": "entity.name.tag.tsx,entity.name.tag.jsx, entity.name.tag.html, entity.name.tag.structure.any.html, entity.name.tag.inline.any.html",
+			"settings": {
+				"foreground": "#719899",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.class.component.tsx,support.class.component.jsx",
+			"settings": {
+				"foreground": "#719899",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.tsx,entity.other.attribute-name.jsx, entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#9a7200"
+			}
 		}
 	]
 }
