@@ -2,8 +2,12 @@
     "name": "seoul",
     "displayName": "Seoul",
     "description": "Port of seoul256 colorscheme from vim. Low-contrast theme. https://github.com/junegunn/seoul256.vim",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "ryanolsonx",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ryanolsonx/vscode-seoul-theme"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
